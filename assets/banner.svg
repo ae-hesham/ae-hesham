@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Abdelrahman Hesham - Hardware Design Engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070d1a"/><stop offset="1" stop-color="#12203a"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0.55"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1e2d4a" stroke-width="0.6"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/><rect width="1200" height="320" rx="18" fill="url(#grid)" opacity="0.55"/>
+<g fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.38">
+<path d="M700 50H860L900 90H1060L1090 60H1200"/>
+<path d="M890 140H915L955 180H960"/>
+<path d="M720 250H900L940 210H1030"/>
+<path d="M1100 300V250L1140 210H1200"/>
+<path d="M840 20V50"/>
+<path d="M1000 20V90"/>
+</g>
+<circle cx="700" cy="50" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="700" cy="50" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="890" cy="140" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="890" cy="140" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="720" cy="250" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="720" cy="250" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="960" cy="180" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="960" cy="180" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="1030" cy="210" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="1030" cy="210" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="1100" cy="300" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="1100" cy="300" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="840" cy="20" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="840" cy="20" r="2" fill="#22d3ee" opacity="0.9"/>
+<circle cx="1000" cy="20" r="6" fill="#0a1224" stroke="#22d3ee" stroke-width="2" opacity="0.8"/><circle cx="1000" cy="20" r="2" fill="#22d3ee" opacity="0.9"/>
+<rect x="1060" y="170" width="92" height="92" rx="8" fill="#0b1630" stroke="#22d3ee" stroke-width="2" opacity="0.9"/>
+<path d="M1072 170v-12M1072 262v12M1060 182h-12M1152 182h12" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+<path d="M1085 170v-12M1085 262v12M1060 195h-12M1152 195h12" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+<path d="M1098 170v-12M1098 262v12M1060 208h-12M1152 208h12" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+<path d="M1111 170v-12M1111 262v12M1060 221h-12M1152 221h12" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+<path d="M1124 170v-12M1124 262v12M1060 234h-12M1152 234h12" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+<path d="M1137 170v-12M1137 262v12M1060 247h-12M1152 247h12" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+<circle cx="1072" cy="182" r="3.5" fill="#22d3ee"/>
+<text x="1106.0" y="221.0" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="15" fill="#a5f3fc" letter-spacing="1">U1</text>
+<rect x="60" y="62" width="6" height="150" rx="3" fill="#22d3ee"/>
+<text x="86" y="92" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="15" fill="#22d3ee" letter-spacing="4">HARDWARE DESIGN ENGINEER</text>
+<text x="84" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Abdelrahman Hesham</text>
+<text x="86" y="204" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#94a3b8">From model to metal.</text>
+<text x="86" y="270" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#64748b" letter-spacing="3">ANALOG  /  PCB  /  SMPS  /  EMC  /  MBD</text>
+<text x="86" y="294" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#475569" letter-spacing="2">CAIRO, EGYPT  -  OPEN TO RELOCATION</text>
+</svg>

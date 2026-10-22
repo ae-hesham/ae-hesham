@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Design pipeline showing where each project sits">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070d1a"/><stop offset="1" stop-color="#12203a"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1e2d4a" stroke-width="0.6"/></pattern></defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/><rect width="1200" height="340" rx="18" fill="url(#grid)" opacity="0.5"/>
+<text x="40" y="44" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#22d3ee" letter-spacing="4">DESIGN PIPELINE  /  WHERE EACH PROJECT SITS</text>
+<path d="M110 200H1010" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+<circle cx="110" cy="200" r="13" fill="#0b1630" stroke="#475569" stroke-width="3"/>
+<text x="110" y="205" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#94a3b8">1</text>
+<text x="110" y="246" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">Model &amp; Simulate</text>
+<circle cx="290" cy="200" r="13" fill="#0b1630" stroke="#475569" stroke-width="3"/>
+<text x="290" y="205" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#94a3b8">2</text>
+<text x="290" y="246" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">Schematic Capture</text>
+<circle cx="470" cy="200" r="13" fill="#0b1630" stroke="#475569" stroke-width="3"/>
+<text x="470" y="205" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#94a3b8">3</text>
+<text x="470" y="246" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">PCB Layout</text>
+<circle cx="650" cy="200" r="13" fill="#0b1630" stroke="#475569" stroke-width="3"/>
+<text x="650" y="205" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#94a3b8">4</text>
+<text x="650" y="246" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">Fabrication</text>
+<circle cx="830" cy="200" r="13" fill="#0b1630" stroke="#475569" stroke-width="3"/>
+<text x="830" y="205" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#94a3b8">5</text>
+<text x="830" y="246" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">Bring-up</text>
+<circle cx="1010" cy="200" r="13" fill="#0b1630" stroke="#475569" stroke-width="3"/>
+<text x="1010" y="205" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#94a3b8">6</text>
+<text x="1010" y="246" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">Production</text>
+<line x1="110" y1="110" x2="110" y2="184" stroke="#fbbf24" stroke-width="2" stroke-dasharray="4 4" opacity="0.8"/>
+<rect x="10.0" y="80" width="200" height="30" rx="15" fill="#0b1630" stroke="#fbbf24" stroke-width="2"/>
+<text x="110" y="100" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#fbbf24" letter-spacing="1">SOLAR TRACKER</text>
+<text x="110" y="266" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#fbbf24">MIL stage, in progress</text>
+<line x1="470" y1="110" x2="470" y2="184" stroke="#22d3ee" stroke-width="2" stroke-dasharray="4 4" opacity="0.8"/>
+<rect x="360" y="56" width="220" height="30" rx="15" fill="#0b1630" stroke="#22d3ee" stroke-width="2"/>
+<text x="470" y="76" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#22d3ee" letter-spacing="1">FAN CONTROLLER PCB</text>
+<rect x="360" y="92" width="220" height="30" rx="15" fill="#0b1630" stroke="#22d3ee" stroke-width="2"/>
+<text x="470" y="112" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#22d3ee" letter-spacing="1">CORE-328PB MODULE</text>
+<text x="470" y="266" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#22d3ee">design complete</text>
+<line x1="1010" y1="110" x2="1010" y2="184" stroke="#4ade80" stroke-width="2" stroke-dasharray="4 4" opacity="0.8"/>
+<rect x="905.0" y="80" width="210" height="30" rx="15" fill="#0b1630" stroke="#4ade80" stroke-width="2"/>
+<text x="1010" y="100" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" font-weight="700" fill="#4ade80" letter-spacing="1">PSK GATE - 12 UNITS</text>
+<text x="1010" y="266" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#4ade80">shipped</text>
+<circle cx="40" cy="310" r="6" fill="#fbbf24"/><text x="54" y="314" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#94a3b8">in progress</text>
+<circle cx="165.4" cy="310" r="6" fill="#22d3ee"/><text x="179.4" y="314" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#94a3b8">design complete, awaiting fabrication</text>
+<circle cx="483.20000000000005" cy="310" r="6" fill="#4ade80"/><text x="497.20000000000005" y="314" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#94a3b8">production</text>
+</svg>
