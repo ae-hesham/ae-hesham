@@ -52,7 +52,7 @@ Three recent designs, covering the full spectrum from **pure simulation** to **p
 
 ### ① Temperature-Controlled DC Fan PCB
 
-**`STM32F411` · `Altium Designer` · `Multi-rail SMPS`** · [**View repository →**](https://github.com/ae-hesham/temperature-controlled-fan-pcb)
+**`STM32F411` · `Altium Designer` · `Multi-rail SMPS`** · [**View repository →**](https://github.com/ae-hesham/Temperature-Controlled-DC-Fan-PCB)
 
 *A compact STM32-based controller that measures temperature and drives a 12 V DC fan with PWM, powered from a single 20-25 V DC input.*
 
@@ -88,7 +88,7 @@ flowchart LR
 
 ### ② CORE-328PB: Castellated Microcontroller Module
 
-**`ATmega328PB` · `FT232RL` · `Altium Designer`** · [**View repository →**](https://github.com/ae-hesham/CORE-328PB)
+**`ATmega328PB` · `FT232RL` · `Altium Designer`** · [**View repository →**](https://github.com/ae-hesham/Compact-ATmega328PB-Castellated-Microcontroller-Module)
 
 *A solder-down, USB-serial programmable 8-bit AVR module with an on-board 5 V regulator, source-OR-ed power path, and 26 castellated I/O pads, built to be dropped onto a carrier board as an SMD component.*
 
